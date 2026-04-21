@@ -17,7 +17,7 @@ python cpu_scheduling.py
 
 Group- 
 B.Tech CSE (AI/ML) 4 'A'
-Mayank Singh (A357175124018)
-Divyaansh (A357175124025)
-Arpit Verma (A357175124049)
-Avinash Singh (A357175124046)
+  Mayank Singh (A357175124018)
+    Divyaansh (A357175124025)
+    Arpit Verma (A357175124049)
+    Avinash Singh (A357175124046)
